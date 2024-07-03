@@ -1,0 +1,2 @@
+<h1>Sistema de Registro</h1>
+.Este proyecto es solo una prueba de Git 
